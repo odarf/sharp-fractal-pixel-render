@@ -1,0 +1,27 @@
+C:\Users\lilo\AppData\Local\Temporary Projects\Lambda_fractal\bin\Debug\Lambda_fractal.exe
+C:\Users\lilo\AppData\Local\Temporary Projects\Lambda_fractal\bin\Debug\Lambda_fractal.pdb
+C:\Users\lilo\AppData\Local\Temporary Projects\Lambda_fractal\obj\x86\Debug\Lambda_fractal.Form1.resources
+C:\Users\lilo\AppData\Local\Temporary Projects\Lambda_fractal\obj\x86\Debug\Lambda_fractal.Properties.Resources.resources
+C:\Users\lilo\AppData\Local\Temporary Projects\Lambda_fractal\obj\x86\Debug\Lambda_fractal.csproj.GenerateResource.Cache
+C:\Users\lilo\AppData\Local\Temporary Projects\Lambda_fractal\obj\x86\Debug\Lambda_fractal.exe
+C:\Users\lilo\AppData\Local\Temporary Projects\Lambda_fractal\obj\x86\Debug\Lambda_fractal.pdb
+C:\Users\lilo\documents\visual studio 2010\Projects\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.exe
+C:\Users\lilo\documents\visual studio 2010\Projects\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.pdb
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\bin\Debug\Lambda_fractal.exe
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\bin\Debug\Lambda_fractal.pdb
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.csprojAssemblyReference.cache
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.Form1.resources
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.Properties.Resources.resources
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.csproj.GenerateResource.cache
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.csproj.CoreCompileInputs.cache
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.exe
+C:\Users\madven\Desktop\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.pdb
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\bin\Debug\Lambda_fractal.exe
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\bin\Debug\Lambda_fractal.pdb
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.csprojAssemblyReference.cache
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.Form1.resources
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.Properties.Resources.resources
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.csproj.GenerateResource.cache
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.csproj.CoreCompileInputs.cache
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.exe
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\2курс4сем\Lambda_fractal\Lambda_fractal\obj\x86\Debug\Lambda_fractal.pdb
